@@ -1,4 +1,4 @@
 # JAVA-Programs
 Some Java things/
 Anyone can contribute/
-Can add your problems
+You can add your problems
