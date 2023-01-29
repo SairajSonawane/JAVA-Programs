@@ -15,7 +15,7 @@ class numbers
             sum= sum+i;
         }
         
-        System.out.println("Sum");
+        System.out.println(Sum);
         
     }
 }
