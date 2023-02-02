@@ -1,5 +1,5 @@
 import java.lang.*;
-class patttern
+class pattern
 {
     public static void main(String[] args) 
     {
@@ -12,3 +12,8 @@ class patttern
         
     }
 }
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
