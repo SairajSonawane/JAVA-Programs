@@ -1,5 +1,5 @@
 import java.lang.*;
-class paattern
+class pattern
 {
     public static void main(String[] args) 
     {
