@@ -1,5 +1,5 @@
 import java.lang.*;
-class pattterrrn
+class pattern
 {
     public static void main(String[] args) 
     {
@@ -18,3 +18,8 @@ class pattterrrn
         
     }
 }
+ * * * * * 
+ * * * *
+ * * *
+ * * 
+ *
