@@ -9,3 +9,6 @@ public class reversearrays
         }
     }
 }
+
+
+//Arrays are collection of similiar data elements.
